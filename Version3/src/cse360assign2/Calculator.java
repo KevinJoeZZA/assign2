@@ -1,5 +1,6 @@
 //Name: Zian Zhang
 //Class ID: 596
+// https://github.com/KevinJoeZZA/assign2.git
 package cse360assign2;
 
 /**
